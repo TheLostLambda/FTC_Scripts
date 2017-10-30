@@ -1,7 +1,7 @@
 # FTC_Scripts
 A set of scripts for uploading Java code to the FTC Robot Controller
 
-**FTC_Down** — This script crawls the phone for prexisting java files and downloads them locally
+**FTC_Down** — This script crawls the phone for prexisting Java files and downloads them locally
 
 **FTC_Up** — This script uploads Java files from the local machine to the robot controller
 
