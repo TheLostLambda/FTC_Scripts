@@ -1,3 +1,6 @@
+# DEPRECIATED
+See this repository instead: https://github.com/TheLostLambda/ftc_http
+
 # FTC_Scripts
 A set of scripts for uploading Java code to the FTC Robot Controller
 
